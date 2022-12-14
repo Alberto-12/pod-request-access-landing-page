@@ -1,6 +1,6 @@
 # Frontend Mentor - Pod request access landing page
 
-This is a solution to the [Meet landing page challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/pod-request-access-landing-page-c__ApQHhvN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Pod request access landing page](https://www.frontendmentor.io/solutions/pod-request-access-landing-page-c__ApQHhvN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -35,7 +35,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](http://127.0.0.1:5500/)
 - Live Site URL: [live site URL](https://alberto-12.github.io/pod-request-access-landing-page/)
 
 ## My process
