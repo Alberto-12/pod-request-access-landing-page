@@ -92,4 +92,5 @@ I'm looking forward to improve on Javascript.
 
 ## Acknowledgments
 
-I'm very Thankfull for my mentor - [Treasure Kabareebe](https://github.com/trekab) that guided me through the process.
+I'm very Thankfull for my mentor   
+[Treasure Kabareebe](https://github.com/trekab) that guided me through the process.
