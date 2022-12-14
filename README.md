@@ -1,6 +1,6 @@
-# Frontend Mentor - Meet landing page solution
+# Frontend Mentor - Pod request access landing page
 
-This is a solution to the [Meet landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Meet landing page challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/pod-request-access-landing-page-c__ApQHhvN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -52,12 +52,17 @@ Users should be able to:
 
 ### What I learned
 
-In this challenge I learned how to make the landing page interactive by using Javascript
-
-
+The main focus of this challenge was to create an email form validation using Javascript. Here's the code for Javasript which I'm really proud of:
 
 ```js
- proudOfThisFunc validate(e){
+var form = document.getElementById('addForm');
+var email = document.getElementById('text');
+var message = document.getElementById('myP');
+var pattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;''
+
+form.addEventListener('submit', validate);
+
+function validate(e){
     e.preventDefault();
 
     if (email.value === '') {
@@ -69,7 +74,6 @@ In this challenge I learned how to make the landing page interactive by using Ja
        
     }
    
-}
 }
 ```
 
@@ -84,7 +88,7 @@ I'm looking forward to improve on Javascript.
 ## Author
 
 
-- Frontend Mentor - [@Alberto-12](https://www.frontendmentor.io/profile/yourusername) this really helped me to better understand DOM manipulation with Javasript.
+- Frontend Mentor - [@Alberto-12](https://www.frontendmentor.io/profile/Alberto-12) this really helped me to better understand DOM manipulation with Javasript.
 
 ## Acknowledgments
 
