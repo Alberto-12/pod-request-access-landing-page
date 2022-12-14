@@ -83,13 +83,13 @@ I'm looking forward to improve on Javascript.
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=i37KVt_IcXw) - This helped me to better understand working with background images.
+- [Example resource 1](https://www.youtube.com/watch?v=i37KVt_IcXw) - This helped me to better understand DOM manipulation using Javascript.
 
 ## Author
 
 
-- Frontend Mentor - [@Alberto-12](https://www.frontendmentor.io/profile/Alberto-12) this really helped me to better understand DOM manipulation with Javasript.
+- Frontend Mentor - [@Alberto-12](https://www.frontendmentor.io/profile/Alberto-12)
 
 ## Acknowledgments
 
-I'm very Thankfull for my mentor Treasure Kabareebe that guided me through the process.
+I'm very Thankfull for my mentor - [Treasure Kabareebe](https://github.com/trekab) that guided me through the process.
